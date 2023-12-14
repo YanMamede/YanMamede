@@ -8,7 +8,7 @@
 
 
 
-![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanMamede&show_icons=true&theme=dark)
+![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanMamede&show_icons=true&rank_icon=github&theme=dark)
 <div> 
 
   <a href="https://www.instagram.com/yan.mamede/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
